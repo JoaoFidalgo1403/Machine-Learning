@@ -1,0 +1,1 @@
+### These assignments integrate hands-on Python implementation via Jupyter Notebooks with handwritten calculus, bridging the gap between theoretical basics and practical Machine Learning applications.
